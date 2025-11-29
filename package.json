@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Website for connellycreations.com",
+  "homepage": "https://github.com/Connelly-Creations/website#readme",
+  "bugs": {
+    "url": "https://github.com/Connelly-Creations/website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connelly-Creations/website.git"
+  },
+  "license": "MIT",
+  "author": "Patrick Connelly <patrick@connelly.dev>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.1"
+  }
+}
