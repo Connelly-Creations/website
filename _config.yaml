@@ -1,1 +1,1 @@
-exclude: [".gitignore", "LICENSE", "package*.json", "node_modules"]
+exclude: [".gitignore", "LICENSE", "package*.json", "node_modules", "assets"]
